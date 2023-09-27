@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Vancouver, British Columbia, Canada.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+  address: 
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a 4th year student in the [Computer Science Department](https://www.uvic.ca/ecs/computerscience/index.php) at the [University of Victoria](https://www.uvic.ca/), due to graduate in January of 2024. My academic experience lies in operating systems, database managment systems, data science, theory of computer science, networks, and computer graphics. Via exposure to a broad spectrum of computer science related fields, I have developed an strong interest in machine learning and data science. 
+
+Previously I have completed two internships in the summer of 2022, and 2021. My most recent internship at [Elevated Signals](https://www.elevatedsignals.com/) as a Data Science Intern which involved conducting exploratory data analysis via machine learning methodoliges such as [Auto Encoders](https://en.wikipedia.org/wiki/Autoencoder), [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree_learning), [Regression Models](https://en.wikipedia.org/wiki/Regression_analysis), and [Isolation Forests](https://en.wikipedia.org/wiki/Isolation_forest). In the summer of 2021 I was a Software Developer Intern at [Styx Intelligence](https://styxintel.com/) where I undertook development of a holistic data collection pipeline. This task was implemeted using AWS tools such as [Lambda](https://aws.amazon.com/lambda/), [EC2](https://aws.amazon.com/ec2/), [S3](https://aws.amazon.com/s3/), and [RDS](https://aws.amazon.com/rds/) along with Python as a core development language.
+
+In my free time I enjoy keeping up with the latest news in machine learning and aritifical intelligence, wether it be reading articles, academic papers, watching videos, or listening to podcasts. While I am away from my computer some of my hobbies include mountain biking, skiing, playing guitar, and attempting to produce music.
