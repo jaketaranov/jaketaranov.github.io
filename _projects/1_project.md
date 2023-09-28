@@ -80,7 +80,7 @@ $$ ObjectColor{_b} = I_{a,b}K_{a,b} + I_{i,b}K_{diff,b}(N \cdot L) + I_{i,b}K_{s
 
 Where $$ I_{a,c}K_{a,c} $$,  $$ I_{i,c}K_{diff,c}(N \cdot L) $$ and $$ I_{i,c}K_{spec,c}(R \cdot V)^n $$ are ambient light and properties, diffuse light and properties, and specular light and properties respectively. And $$ K_a $$, $$ K_{diff} $$, $$ K_{spec} $$, and $$ n $$ are object or material properties and $$ I_a $$, $$ I_{diff} $$ and $$ I_{spec} $$ are properties of the light.
 
-$$ (N \cdot L) $$ represents the angle between the light direction vector ($$ L $$) and the surface nor ($$ N $$), and $$ (R \cdot V) $$ represents the angle between the viewer ($$ V $$) and the light source reflected on the surface ($$ R $$). More details on ambient light can be found [here](http://www.conitec.net/shaders/shader_work2.htm). And more details on specular light can be found [here](https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_reflection_model).
+$$ (N \cdot L) $$ represents the angle between the light direction vector ($$ L $$) and the surface norm ($$ N $$), and $$ (R \cdot V) $$ represents the angle between the viewer ($$ V $$) and the light source reflected on the surface ($$ R $$). More details on ambient light can be found [here](http://www.conitec.net/shaders/shader_work2.htm). And more details on specular light can be found [here](https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_reflection_model).
 
 
 ### Repeat with Reflected Rays
