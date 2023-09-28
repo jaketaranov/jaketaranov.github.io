@@ -13,9 +13,9 @@ As part of one of Western Canada’s largest annual hackathons hosted by UBC, my
 
 Our submission was awarded 2nd place in the hackathon.
 
-<div align="center"><iframe id="player" width="720" height="360" src="http://www.youtube.com/embed/EYhCXC9rJ6E" frameborder="0" allowfullscreen></iframe></div>
+<div align="center"><iframe id="player" width="720" height="360" src="https://www.youtube.com/embed/EYhCXC9rJ6E" frameborder="0" allowfullscreen></iframe></div>
 
-### How we Devloped the Application
+### How we Developed the Application
 
 Prior to writing the first lines of code, we as a team spent approximately two hours brainstorming ideas, drawing up prototypes, and providing feedback and critiques, until we decided that we wanted to commit to the idea of SafetyNet. We felt that it was a great chance to learn some new technologies while creating an app that has a real world practical use.
 
