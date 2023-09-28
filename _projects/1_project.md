@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ray Tracer in Python
+title: Ray Tracing Engine
 description: A backward ray tracing algorithm in Python 
 img: assets/img/raytracer_site_2.png
 importance: 1
