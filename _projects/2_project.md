@@ -3,7 +3,7 @@ layout: page
 title: SafetyNet
 description: An application to help users return home safely 
 img: assets/img/safetynet_pic.png
-importance: 1
+importance: 
 category: work
 related_publications: 
 ---
