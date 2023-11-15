@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RSNA Breast Cancer Detection
-description: Attempting Detecting breast cancer via mammographic imaging
+description: Attempting to detect breast cancer via mammographic imaging
 img: assets/img/rsna_pic_1.png
 importance: 4
 category: work
