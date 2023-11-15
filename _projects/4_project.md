@@ -25,7 +25,7 @@ In an effort to learn C++ with SFML I undertook the task of designing and develo
 I have always had a natural curiosity with space, and I was fortunate enough to explore this curiousity with some electivates taken at UVIC (ASTR 101, 102). Along with my ambition to learn C++, this project was a great learning experience for both.
 
 ## Input
-The program reads in a json file specified via command line arguments that specifies the bodies and other parameters in the simulation. 
+The program reads in a json file specified via command line arguments that lists the attributes bodies and other general parameters in the simulation. 
 
 
 ```json
