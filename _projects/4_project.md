@@ -22,7 +22,7 @@ In an effort to learn C++ with SFML I undertook the task of designing and develo
     A simulation of two bodies orbiting each other. 
 </div>
 
-I have always had a natural curiosity with space, and I was fortunate enough to explore this curiousity with some electivates taken at UVIC (ASTR 101, 102). Along with my ambition to learn C++, this project was a great leanring experunce for both.
+I have always had a natural curiosity with space, and I was fortunate enough to explore this curiousity with some electivates taken at UVIC (ASTR 101, 102). Along with my ambition to learn C++, this project was a great learning experience for both.
 
 ## Input
 The program reads in a json file specified via command line arguments that specifies the bodies and other parameters in the simulation. 
